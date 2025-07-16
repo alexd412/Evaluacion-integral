@@ -1,0 +1,26 @@
+#mi-carousel{
+    width: 100%;
+    height: 350px;
+}
+.carousel-item img{
+    width:100%;
+    height: 350px;
+    object-fit: cover;
+}
+.card{
+    margin: 0% auto;
+}
+.col{
+    margin: 2px;
+}
+.navbar{
+    justify-content: flex-start;
+}
+.bs-dark{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+.bi-facebook{
+    color: white;
+}
